@@ -1,0 +1,2 @@
+rootProject.name = "MyFirstDB_04112021_1"
+include ':app'
